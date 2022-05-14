@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fetch-har": "^8.0.1",
+    "follow-redirects": "^1.15.0",
+    "har-to-curl": "^0.4.1",
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
